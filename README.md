@@ -1,7 +1,7 @@
 # Timesheet
 Employee Timesheet Activity
 
-Katherine
-Clint
-Mike
+Katherine,
+Clint,
+Mike,
 David
